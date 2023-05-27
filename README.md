@@ -1,7 +1,7 @@
 
 # fb-phish
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxmain&label=Profile%20views&color=0e75b6&style=flat" alt="paradoxmain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxmain&label=Project%20viewed&color=0e75b6&style=flat" alt="paradoxmain" /> </p>
 
 This is the clone for Fb, remaked with some backend support using php.
 
