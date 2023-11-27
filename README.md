@@ -2,9 +2,10 @@
 # fb-phish
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxmain&label=Project%20viewed&color=0e75b6&style=flat" alt="paradoxmain" /> </p>
-
 This is the clone for Fb, remaked with some backend support using php.
 
+## HOW IT WORKS?
+This contains the login page of the **Facebook**, backend by php. When someone filling the forms you can see him in *two ways* one is by clicking the bottom secret box which will automatically give you the **admin pannel** of the all the people filled informations like the *email/username,password,useragent and more..* , also in programmatically you can get the infos through running in the local machine by running the bash file which is inside the folder with that you can get real time data of the *filled informations* through terminal. I pranked my friends with this tool, and till today I wonder why they fall for it, haha.
 
 ## Authors
 
