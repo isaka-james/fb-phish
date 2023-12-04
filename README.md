@@ -5,16 +5,19 @@
 This is the clone for Fb, remaked with some backend support using php.
 
 ## HOW IT WORKS?
-This contains the login page of the **Facebook**, backend by php. When someone filling the forms you can see him in *two ways* one is by clicking the bottom secret box which will automatically give you the **admin pannel** of the all the people filled informations like the *email/username,password,useragent and more..* , also in programmatically you can get the infos through running in the local machine by running the bash file which is inside the folder with that you can get real time data of the *filled informations* through terminal. I pranked my friends with this tool, and till today I wonder why they fall for it, haha.
+Straight forward when you finish installing this, you share the link to your friends and when they fill the informations, You see it!!
+There are two ways to see the informations filled one is by:
+- Click the box which is at the buttom of the login page, with that you will be taken to the admin pannel, where you will see all the filled informations.
+- Another one is the same as above but you just add **/admin.php** at the end of your server *url*, for eg *localhost:8080/admin.php*.
+- The other way is by using *terminal* which is cool, just open another tab ( don't close the php server! ), and type **watch -n 5 'cat backend/data.txt'**
 
 ## Authors
 
-- [@reprogamaco](https://www.github.com/paradoxmain)
-- [@masterplan777](https://www.github.com/mrnkolima)
+- [@reprogamaco](https://www.github.com/reprogamaco)
 
 
 
-## Installation in linux enviroment
+## Installation in linux enviroments [ Kali Linux | Termux & all Other Linux Distros ]
 
 To install this project
 
@@ -30,6 +33,7 @@ Then open another session
 ```bash
     watch -n 5 'cat backend/data.txt'
 ```
+
 
 ## How to make it available online?
 
