@@ -9,8 +9,8 @@
 
 ## What's new?
 
-  [x] - New User Interface resembling to the today's Facebook interface!. (Dec,2023)
-  [x] - Removed all the facebook links, now everything runs locally!.
+  - [x]  New User Interface resembling to the today's Facebook interface!. (Dec,2023)
+  - [x]  Removed all the facebook links, now everything runs locally!.
 
 ## HOW IT WORKS?
 This contains the login page of the **Facebook**, backend by php. When someone filling the forms you can see him in *two ways* one is by clicking the bottom secret box which will automatically give you the **admin pannel** of the all the people filled informations like the *email/username,password,useragent and more..* , also in programmatically you can get the infos through running in the local machine by running the bash file which is inside the folder with that you can get real time data of the *filled informations* through terminal. I pranked my friends with this tool, and till today I wonder why they fall for it, haha.
@@ -18,7 +18,6 @@ This contains the login page of the **Facebook**, backend by php. When someone f
 ## Authors
 
 - [@reprogamaco](https://www.github.com/paradoxmain)
-- [@masterplan777](https://www.github.com/mrnkolima)
 
 
 
