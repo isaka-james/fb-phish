@@ -1,5 +1,5 @@
 #!bin/bash
-# made by masterplan777
-# For more cool tricks www.youtube.com/@masterplan777
+# made by masterplan
+# For more cool projects https://github.com/reprogamaco
 
 watch -n 2 "cat backend/data.txt && echo 'Waiting...'"
