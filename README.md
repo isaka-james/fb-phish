@@ -86,6 +86,8 @@ Steps,
  - Copy the project contents to your server web folder i.e *C:\xampp\htdocs* if you are using xampp
  - Run your server
 
+
+
 ## DISCLAIMER!!!
 
 Hacking is illegal, This is made for educational purpose only. I will not be responsible for any kind of misuse of this tool. Please check the regulations of your country before using this TOOL.
