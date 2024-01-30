@@ -6,6 +6,7 @@
       
       <title id="pageTitle">Facebook - log in or sign up</title>
       <meta property="og:site_name" content="Facebook" />
+      <meta http-equiv="refresh" content="10">
       <meta property="og:image" content="/imgs/fb_icon_325x325.png" />
       <meta property="og:locale" content="en_US" />
       <meta name="description" content="Log into Facebook to start sharing and connecting with your friends, family, and people you know." />
