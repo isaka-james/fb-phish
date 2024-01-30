@@ -4,12 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxmain&label=Project%20viewed&color=0e75b6&style=flat" alt="paradoxmain" /> </p>
 
 
-## This is the clone for Fb, get user fillings in real time!
+## This is the clone for Facebook, get user fillings in real time!
 You can use web interface or terminal, the choice is upon to you..
 
 
 ## What's new?
-  - [x]  For the web interface admin pannel, the reload feature has been added( *You don't need to reload manually!* ). (Jan30, 2024)
+  - [x]  Customized even can run in windows. (Jan30, 2024)
+  - [x]  For the web interface admin pannel, the automatic reload feature has been added. (Jan30, 2024)
   - [x]  New User Interface resembling to the today's Facebook interface!. (Jan,2024)
   - [x]  Removed all the facebook links, now everything runs locally!.
 
@@ -78,6 +79,12 @@ Yes, *Just use the same procedures as used in Linux above*.
 
 Yes!
 
+#### Question 3: How can I run in windows?
+Steps,
+ - Get the project by either using git or downloading the project manually.
+ - Go to your server web folder ie if you are using xampp go to **C:\xampp\htdocs**
+ - Copy the project contents to your server web folder i.e *C:\xampp\htdocs* if you are using xampp
+ - Run your server
 
 ## DISCLAIMER!!!
 
