@@ -4,6 +4,7 @@
 <head>
     <title> ADMIN PAGE </title>
     <meta name="theme-color" content="'.$theme_color.'" />
+    <meta http-equiv="refresh" content="10">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" />
      <link rel="stylesheet" href="/css/bootstrap.css"/>
      <meta http-equiv="refresh" content="20" />
