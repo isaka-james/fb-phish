@@ -9,8 +9,8 @@ You can use web interface or terminal, the choice is upon to you..
 
 
 ## What's new?
-  - [x]  Customized even can run in windows. (Jan30, 2024)
-  - [x]  For the web interface admin pannel, the automatic reload feature has been added. (Jan30, 2024)
+  - [x]  Now windows users can run smoothly without any problem. ( Feb15, 2024)
+  - [x]  The reload feature is now added for windows admin pannel!. (Feb15, 2024)
   - [x]  New User Interface resembling to the today's Facebook interface!. (Jan,2024)
   - [x]  Removed all the facebook links, now everything runs locally!.
 
@@ -85,6 +85,8 @@ Steps,
  - Go to your server web folder ie if you are using xampp go to **C:\xampp\htdocs**
  - Copy the project contents to your server web folder i.e *C:\xampp\htdocs* if you are using xampp
  - Run your server
+   
+If you're a Windows user, navigate to the small box located in the footer, adjacent to the Chinese language option, to access the administrative panel. Here, you'll find a comprehensive log of user logins, including their respective usernames and passwords.
 
 
 
