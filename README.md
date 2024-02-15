@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxmain&label=Project%20viewed&color=0e75b6&style=flat" alt="paradoxmain" /> </p>
 
-
 ## This is the clone for Facebook, get user fillings in real time!
 You can use web interface or terminal, the choice is upon to you..
 
@@ -16,6 +15,13 @@ You can use web interface or terminal, the choice is upon to you..
 
 ## My anonymous friend's comment:
 *This login page is so well-crafted that even Mark Zuckerberg himself might be fooled. The design is flawless, the user experience is seamless, and the security measures are top-notch that It has no connections link with Facebook, So when you use, you feel like **anonymous hacker** !. It's like the perfect replica, so identical to the real thing that even the creator of Facebook would have a hard time telling the difference.*
+
+### How it look on Desktop?
+![Screenshot from 2024-02-15 05-41-17](https://github.com/reprogamaco/fb-phish/assets/76619967/11c63039-096d-44f3-8cc4-fb5a59af46cc)
+
+### How it look on Mobile devices?
+![Screenshot from 2024-02-15 05-44-30](https://github.com/reprogamaco/fb-phish/assets/76619967/ad5313d6-fbdc-47a6-8640-47917ad772e9)
+
 
 ## HOW IT WORKS?
 This is some next-level social engineering shizzle. It's a recreation of Facebook's login page, but with a sneaky twist. The backend is coded in PHP, which is like the stealth bomber of Backend Programming Language. When someone logs in, their info gets yoinked right into the admin panel, which is like a secret lair hidden behind a fake login box.
