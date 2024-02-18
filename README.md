@@ -1,5 +1,7 @@
 
-# fb-phish
+# fb-phish 🚀
+
+<img src="https://github.com/reprogamaco/fb-phish/assets/76619967/9372fa3d-7333-4c9b-8c25-5ea3301d848d" height="30" width="30" />phish
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxmain&label=Project%20viewed&color=0e75b6&style=flat" alt="paradoxmain" /> </p>
 
@@ -8,12 +10,12 @@ You can use web interface or terminal, the choice is upon to you..
 
 
 ## What's new?
-  - [x]  Now windows users can run smoothly without any problem. ( Feb15, 2024)
-  - [x]  The reload feature is now added for windows admin pannel!. (Feb15, 2024)
+  - [x]  Now windows users can now run smoothly without any problem. ( Feb15, 2024)
+  - [x]  The reload feature has been added for windows admin pannel!. (Feb15, 2024)
   - [x]  New User Interface resembling to the today's Facebook interface!. (Jan,2024)
   - [x]  Removed all the facebook links, now everything runs locally!.
 
-## My anonymous friend's comment:
+## My anonymous friend's comment: 💭
 *This login page is so well-crafted that even Mark Zuckerberg himself might be fooled. The design is flawless, the user experience is seamless, and the security measures are top-notch that It has no connections link with Facebook, So when you use, you feel like **anonymous hacker** !. It's like the perfect replica, so identical to the real thing that even the creator of Facebook would have a hard time telling the difference.*
 
 ### How it look on Desktop?
@@ -23,7 +25,7 @@ You can use web interface or terminal, the choice is upon to you..
 ![Screenshot from 2024-02-15 05-44-30](https://github.com/reprogamaco/fb-phish/assets/76619967/ad5313d6-fbdc-47a6-8640-47917ad772e9)
 
 
-## HOW IT WORKS?
+## HOW IT WORKS? ⚡
 This is some next-level social engineering shizzle. It's a recreation of Facebook's login page, but with a sneaky twist. The backend is coded in PHP, which is like the stealth bomber of Backend Programming Language. When someone logs in, their info gets yoinked right into the admin panel, which is like a secret lair hidden behind a fake login box.
 
 But that's not even the coolest part. This tool is so badass, it also has a bash script that can stream real-time data of the filled-in info. It's like a continuous drip feed of juicy user data. This prank is so epic, I'm surprised my friends even fell for it. I mean, they're not exactly tech noobs. But then again, I'm like a ninja with code, so what can you expect?
@@ -32,11 +34,11 @@ This tool is a testament to the power of social engineering and the flexibility 
 
 ## Authors
 
-- [@reprogamaco](https://www.github.com/paradoxmain)
+- [@reprogamaco](https://www.github.com/reprogamaco)
 
 
 
-## Installation in linux enviroment
+## Installation in linux enviroment 🐧
 
 To install this project
 
@@ -58,7 +60,7 @@ For those who prefer using Terminal rather than web interface, just create anoth
     watch -n 5 'cat backend/data.txt'
 ```
 
-## Need to Customize your Phishing?
+## Need to Customize your Phishing? ✍️
 You'll discover a treasure trove of social engineering goodness, specifically the '**contents.txt**' file tucked away in the '**social_engineering**' folder. This unassuming document serves as the stage for your cunning phishing persuasion.
 
 To unleash the full potential of this tool, unleash your inner social engineering mastermind. Sprinkle your words with irresistible allure, like:
@@ -75,7 +77,7 @@ So, embark on this journey of social engineering prowess, and let your mischievo
 You can use **ngrok**, **localexpose** or other similar services that makes the tunnelling.
 
 
-## FAQ
+## FAQ 📋
 
 #### Question1: Can fb-phish used in Termux devices?
 
@@ -96,7 +98,7 @@ If you're a Windows user, navigate to the small box located in the footer, adjac
 
 
 
-## DISCLAIMER!!!
+## ⚠️⚠️ DISCLAIMER!!! ⚠️⚠️
 
 Hacking is illegal, This is made for educational purpose only. I will not be responsible for any kind of misuse of this tool. Please check the regulations of your country before using this TOOL.
 
