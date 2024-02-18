@@ -8,6 +8,10 @@
 ## This is the clone for Facebook, get user fillings in real time!
 You can use web interface or terminal, the choice is upon to you..
 
+## Authors
+
+- [@reprogamaco](https://www.github.com/reprogamaco)
+
 
 ## What's new?
   - [x]  Now windows users can now run smoothly without any problem. ( Feb15, 2024)
@@ -31,10 +35,6 @@ This is some next-level social engineering shizzle. It's a recreation of Faceboo
 But that's not even the coolest part. This tool is so badass, it also has a bash script that can stream real-time data of the filled-in info. It's like a continuous drip feed of juicy user data. This prank is so epic, I'm surprised my friends even fell for it. I mean, they're not exactly tech noobs. But then again, I'm like a ninja with code, so what can you expect?
 
 This tool is a testament to the power of social engineering and the flexibility of programming languages. It's a reminder that even the most familiar technologies can be twisted into something unexpected. So next time you're feeling mischievous, remember this tool and unleash your inner hacker!
-
-## Authors
-
-- [@reprogamaco](https://www.github.com/reprogamaco)
 
 
 
