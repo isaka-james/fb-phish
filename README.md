@@ -3,7 +3,7 @@
 
 <img src="https://github.com/isaka-james/fb-phish/assets/76619967/9372fa3d-7333-4c9b-8c25-5ea3301d848d" height="30" width="30" />phish
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxmain&label=Project%20viewed&color=0e75b6&style=flat" alt="paradoxmain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fb-phish&label=Project%20viewed&color=0e75b6&style=flat" alt="project views count" /> </p>
 
 ## This is the clone for Facebook, get user fillings in real time!
 You can use web interface or terminal, the choice is upon to you..
