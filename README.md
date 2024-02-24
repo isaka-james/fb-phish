@@ -5,10 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fb-phish&label=Project%20viewed&color=0e75b6&style=flat" alt="project views count" /> </p>
 
-## This is the clone for Facebook, get user fillings in real time!
+## Custom FaceBook Login Page works with Linux, Windows, Termux 🔓
 You can use web interface or terminal, the choice is upon to you..
 
-## Authors
+## Authors 🕵🏿‍♂️
 
 - [@isaka-james](https://www.github.com/isaka-james)
 
