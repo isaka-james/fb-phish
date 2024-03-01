@@ -1,12 +1,19 @@
+<div align="center" style="margin-bottom: 10px">
+  
+  <h1 align="center"><img src="https://github.com/isaka-james/fb-phish/assets/76619967/9372fa3d-7333-4c9b-8c25-5ea3301d848d" height="30" width="30" /> fb-phish 🚀</h1>
+  <p align="center" style="font-size: 8px;font-weight: 700">Thanks for all the stars I got so far this project..🌟🌟,</p>
+  <p align="center" style="font-size: 8px;font-weight: 700">As I promised each new star made🏝️, I will introduce a new feature🌋! </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=fb-phish&label=Project%20viewed&color=0e75b6&style=flat" alt="project views count" /> </p>
 
-# fb-phish 🚀
+  
 
-<img src="https://github.com/isaka-james/fb-phish/assets/76619967/9372fa3d-7333-4c9b-8c25-5ea3301d848d" height="30" width="30" />phish
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fb-phish&label=Project%20viewed&color=0e75b6&style=flat" alt="project views count" /> </p>
 
-## works with Linux, Windows, Termux 🔓
-You can use web interface or terminal, the choice is upon to you..
+## Linux, Windows, Termux Supported 🔓
+The project is scalable, so it can be run in all OS. Doesn't matter it is Linux enviroments ie(kali linux, Ubuntu, Parrot, ..), windows( ie windows 10, windows 11, windows 8, ..), or MacOS.
+
+Also you can use web interface or terminal, the choice is upon to you..
 
 ## Authors 🕵🏿‍♂️
 
