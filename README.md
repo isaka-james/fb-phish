@@ -62,6 +62,8 @@ After running those commands then at **http://localhost:8080** , the phishing pa
 ##### For phishing Admin Pannel
 When you want to view the user logins( *username and password* ) through web interface, On the bottom of the login page there is a little box when you clicked that you will be redirected to the **admin pannel**, where you will meet the table with all the user logins.
 
+Or simply navigate to **http://localhost:8080/admin.php** for viewing the admin pannel containing the username, passwords, IP address and more.
+
 ##### For Terminal Admin Pannel
 For those who prefer using Terminal rather than web interface, just create another session in the terminal and write this: 
 
