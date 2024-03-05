@@ -1,1 +1,0 @@
-Connect with friends and the world around you on Facebook.
