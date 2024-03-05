@@ -1,0 +1,52 @@
+
+ ***DATA***INSERTED***
+
+Username:: ommy mwalimu
+Password:: masterplan
+IP-Address:: ::1
+Time:: March 5, 2024, 8:24 pm
+Device:: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+
+  **********************
+
+
+
+
+ ***DATA***INSERTED***
+
+Username:: mastaerplan
+Password:: 12345
+IP-Address:: ::1
+Time:: March 5, 2024, 8:42 pm
+Device:: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+
+  **********************
+
+
+
+
+ ***DATA***INSERTED***
+
+Username:: mastaerplan
+Password:: 12345
+IP-Address:: ::1
+Time:: March 5, 2024, 8:44 pm
+Device:: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+
+  **********************
+
+
+
+
+ ***DATA***INSERTED***
+
+Username:: hello
+Password:: wwewe
+IP-Address:: ::1
+Time:: March 5, 2024, 9:18 pm
+Device:: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+
+  **********************
+
+
+
