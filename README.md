@@ -10,10 +10,10 @@
 </div>
 
 
-## Linux, Windows, Termux Supported 🔓
-The tool is scalable, so it can be run in all OS. Doesn't matter it is Linux enviroments ie(kali linux, Ubuntu, Parrot, ..), windows( ie windows 10, windows 11, windows 8, ..), or MacOS.
+## New Version✅ - 6th March,2024
+Recently I changed the structure of the Tool, using PHP 100%. Running in all OS (Linux, Windows, Termux and etc).See the [new features](https://www.github.com/isaka-james)
 
-Also you can use web interface or terminal, the choice is upon to you..
+More stuffs added!
 
 ## Authors 🕵🏿‍♂️
 
@@ -21,6 +21,11 @@ Also you can use web interface or terminal, the choice is upon to you..
 
 
 ## What's new?
+  - [x] Now the refresh for admin pannel to get *passwords* and *usernames* uses JavaScript, say *bye bye* to refresh page html element.(6 March, 2024)
+  - [x] Images and logics which were draining the Tool are removed from JavaScript. ( 6 March, 2024)
+  - [x] Used the bootstrap to prettify the admin pannel and the table of username and passwords look neat.(6 March, 2024)
+  - [x] Removed useless code(*clean*) and introduced new advanced infrustructure. (6 March, 2024)
+  - [x] Now the links are working fine, to access admin pannel just type https://localhost:8080/admin (6 March, 2024)
   - [x]  Now windows users can now run smoothly without any problem. ( Feb15, 2024)
   - [x]  The reload feature has been added for windows admin pannel!. (Feb15, 2024)
   - [x]  New User Interface resembling to the today's Facebook interface!. (Jan,2024)
@@ -36,43 +41,41 @@ Also you can use web interface or terminal, the choice is upon to you..
 ![Screenshot from 2024-02-15 05-44-30](https://github.com/isaka-james/fb-phish/assets/76619967/ad5313d6-fbdc-47a6-8640-47917ad772e9)
 
 ### How Admin Pannel looks like?
-![Screenshot from 2024-03-04 11-49-05](https://github.com/isaka-james/fb-phish/assets/76619967/e9446f26-b2da-45d0-a4bf-34fa202bc266)
+![Screenshot from 2024-03-06 01-31-32](https://github.com/isaka-james/fb-phish/assets/76619967/825ecaa4-5972-40e0-8a86-0156e148207a)
+
 
 ## HOW IT WORKS? ⚡
-This is some next-level social engineering shizzle. It's a recreation of Facebook's login page, but with a sneaky twist. The backend is coded in PHP, which is like the stealth bomber of Backend Programming Language. When someone logs in, their info gets yoinked right into the admin panel, which is like a secret lair hidden behind a fake login box.
-
-But that's not even the coolest part. This tool is so badass, it also has a bash script that can stream real-time data of the filled-in info. It's like a continuous drip feed of juicy user data. This prank is so epic, I'm surprised my friends even fell for it. I mean, they're not exactly tech noobs. But then again, I'm like a ninja with code, so what can you expect?
-
-This tool is a testament to the power of social engineering and the flexibility of programming languages. It's a reminder that even the most familiar technologies can be twisted into something unexpected. So next time you're feeling mischievous, remember this tool and unleash your inner hacker!
-
+When user fills his/her username and passwords, by clicking the login. The user will be redirected to official FaceBook website. The user won't notice the changes since the websites(*one which we made and the original one*) are very identical, when I say Identical I mean it!, even my closest developers friends fell for this LOL.
 
 
 ## Installation in linux enviroment 🐧
 
-To install this tool
+To install this tool,
 
 ```bash
   git clone https://github.com/isaka-james/fb-phish.git
   cd fb-phish
   php -S localhost:8080
 ```
+After starting the server, open another session:
 
-After running those commands then at **http://localhost:8080** , the phishing page replica of Facebook login page will be activated. 
+I chose the port *8080* for easy understanding(*since Termux users cannot use port 80*)
 
-##### For phishing Admin Pannel
-When you want to view the user logins( *username and password* ) through web interface, On the bottom of the login page there is a little box when you clicked that you will be redirected to the **admin pannel**, where you will meet the table with all the user logins.
-
-Or simply navigate to **http://localhost:8080/admin.php** for viewing the admin pannel containing the username, passwords, IP address and more.
-
-##### For Terminal Admin Pannel
-For those who prefer using Terminal rather than web interface, just create another session in the terminal and write this: 
-
+Then for seeing the users' passwords and usernames filled the form, you can write these commands:
 ```bash
-    watch -n 5 'cat backend/data.txt'
+cd command-line/   # going to 'command-line' folder special made for Linux users
+bash command.sh       # this script contains the code for autoreload the live filled username and passwords on the website(tool)
 ```
 
+
+##### Admin Pannel:
+When you want to view the user logins( *username and password* ) through web interface, On the bottom of the login page there is a little box when you clicked that you will be redirected to the */admin* , where you will meet the table with all the user logins.
+
+Or simply navigate to *http://localhost:8080/admin* for viewing the admin pannel containing the username, passwords, IP address and more.
+
+
 ## Need to Customize your Phishing? ✍️
-You'll discover a treasure trove of social engineering goodness, specifically the '**contents.txt**' file tucked away in the '**social_engineering**' folder. This unassuming document serves as the stage for your cunning phishing persuasion.
+You'll discover a treasure trove of social engineering goodness, specifically the '*social-engineering/display.b*' file tucked away in the '*social-engineering*' folder. This unassuming document serves as the stage for your cunning phishing persuasion.
 
 To unleash the full potential of this tool, unleash your inner social engineering mastermind. Sprinkle your words with irresistible allure, like:
 
