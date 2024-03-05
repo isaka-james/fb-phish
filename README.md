@@ -11,9 +11,11 @@
 
 
 ## New Version✅ - 6th March,2024
-Recently I changed the structure of the Tool, using PHP 100%. Running in all OS (Linux, Windows, Termux and etc).See the [new features](https://www.github.com/isaka-james)
+Recently I changed the structure of the Tool, using PHP 100%. Running in all OS (*Linux, Windows, Termux and etc*).
+[![confidence-svg](https://svg-go-production.up.railway.app/api/svg?name1=Languages+Used&name2=PHP=89,JavaScript=5,CSS=3,Bash=1,Html=2)](https://github.com/isaka-james/svg-top)
 
-More stuffs added!
+[More stuffs added!](https://github.com/isaka-james/fb-phish#whats-new)
+
 
 ## Authors 🕵🏿‍♂️
 
@@ -21,15 +23,16 @@ More stuffs added!
 
 
 ## What's new?
-  - [x] Now the refresh for admin pannel to get *passwords* and *usernames* uses JavaScript, say *bye bye* to refresh page html element.(6 March, 2024)
+  - [x] Now the refresh for admin pannel to get *passwords* and *usernames* uses JavaScript, say *bye bye* to refresh page html element.(**6 March, 2024**)
   - [x] Images and logics which were draining the Tool are removed from JavaScript. ( 6 March, 2024)
-  - [x] Used the bootstrap to prettify the admin pannel and the table of username and passwords look neat.(6 March, 2024)
+  - [x] Used the bootstrap to prettify the admin pannel and the table of username and passwords look neat. Also the links are now prettified! (6 March, 2024)
   - [x] Removed useless code(*clean*) and introduced new advanced infrustructure. (6 March, 2024)
-  - [x] Now the links are working fine, to access admin pannel just type https://localhost:8080/admin (6 March, 2024)
+  - [x] Now the links are working fine, to access admin pannel just type *https://localhost:8080/admin* (6 March, 2024)
   - [x]  Now windows users can now run smoothly without any problem. ( Feb15, 2024)
   - [x]  The reload feature has been added for windows admin pannel!. (Feb15, 2024)
   - [x]  New User Interface resembling to the today's Facebook interface!. (Jan,2024)
   - [x]  Removed all the facebook links, now everything runs locally!.
+
 
 ## My anonymous friend's comment: 💭
 *This login page is so well-crafted that even Mark Zuckerberg himself might be fooled. The design is flawless, the user experience is seamless, and the security measures are top-notch that It has no connections link with Facebook, So when you use, you feel like **anonymous hacker** !. It's like the perfect replica, so identical to the real thing that even the creator of Facebook would have a hard time telling the difference.*
@@ -53,9 +56,9 @@ When user fills his/her username and passwords, by clicking the login. The user 
 To install this tool,
 
 ```bash
-  git clone https://github.com/isaka-james/fb-phish.git
-  cd fb-phish
-  php -S localhost:8080
+  git clone https://github.com/isaka-james/fb-phish.git           # get a copy of Tool
+  cd fb-phish                                                     # get inside the Tool
+  php -S localhost:8080                                           # start server at port 8080
 ```
 After starting the server, open another session:
 
