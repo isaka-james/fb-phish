@@ -1,7 +1,8 @@
 <div align="center" style="margin-bottom: 10px">
   
   <h1 align="center"><img src="https://github.com/isaka-james/fb-phish/assets/76619967/9372fa3d-7333-4c9b-8c25-5ea3301d848d" height="30" width="30" /> fb-phish 🚀</h1>
-  <p align="center" style="font-size: 8px;font-weight: 700">Recembrance fb UI updated March,2024</p>
+  <p align="center" style="font-size: 8px;font-weight: 700">Recembrance fb UI updated <b></b>March,2024</p></p>
+   <p align="center" style="font-size: 8px;font-weight: 700">💣 The most <b>advanced🤖</b> and <b>maintaned Phish!💥</b></p>
   <p align="center" style="font-size: 8px;font-weight: 700">⚠️⚠️⚠️Dangerous Tool☠⚠️⚠️⚠️ </p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=fb-phish&label=Project%20viewed&color=0e75b6&style=flat" alt="project views count" /> </p>
 
@@ -14,7 +15,7 @@
 Recently I changed the structure of the Tool, using PHP 100%. Running in all OS (*Linux, Windows, Termux and etc*).
 
 
-[See stuffs added!](https://github.com/isaka-james/fb-phish#whats-new)
+[See stuffs added!](#whats-new)
 
 
 ## Authors 🕵🏿‍♂️
