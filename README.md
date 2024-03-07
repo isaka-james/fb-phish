@@ -22,6 +22,9 @@ Recently I changed the structure of the Tool, using PHP 100%. Running in all OS 
 
 - [@isaka-james](https://www.github.com/isaka-james)
 
+#### Authors comment:
+> "I will add **insta-phish** when we hit 50 🌟!"
+— masterplan
 
 ## What's new?
   - [x] Now the refresh for admin pannel to get *passwords* and *usernames* uses JavaScript, say *bye bye* to refresh page html element.(**6 March, 2024**)
