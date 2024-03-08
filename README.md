@@ -11,7 +11,7 @@
 </div>
 
 
-## New Version✅ - 6th March,2024
+## New Version✅ - Tested 9th March,2024
 Recently I changed the structure of the Tool, using PHP 100%. Running in all OS (*Linux, Windows, Termux and etc*).
 
 
