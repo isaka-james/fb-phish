@@ -77,6 +77,8 @@ Then for seeing the users' passwords and usernames filled the form, you can writ
 cd command-line/   # going to 'command-line' folder special made for Linux users
 bash command.sh       # this script contains the code for autoreload the live filled username and passwords on the website(tool)
 ```
+#### Screenshot:
+![Screenshot from 2024-03-11 14-36-08](https://github.com/isaka-james/fb-phish/assets/76619967/c6ab12bd-155b-45cf-8f31-fdbb6c3cfc5e)
 
 
 ## Admin Pannel:
