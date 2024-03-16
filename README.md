@@ -1,7 +1,7 @@
 <div align="center" style="margin-bottom: 10px">
   
-  <h1 align="center"><img src="https://github.com/isaka-james/fb-phish/assets/76619967/9372fa3d-7333-4c9b-8c25-5ea3301d848d" height="30" width="30" /> fb-phish 🚀</h1>
-  <p align="center" style="font-size: 8px;font-weight: 700">Recembrance fb UI updated <b></b>March,2024</p></p>
+  <h1 align="center"><img src="https://github.com/isaka-james/fb-phish/assets/76619967/9372fa3d-7333-4c9b-8c25-5ea3301d848d" height="30" width="30" /> fb-phish + <img src="https://raw.githubusercontent.com/isaka-james/fb-phish/main/public/images/favicon.png" height="30" width="30" />insta-phish 🚀</h1>
+  <p align="center" style="font-size: 8px;font-weight: 700">Recembrance <b>fb</b> and <b>ig</b> UI updated <b></b>March,2024</p></p>
    <p align="center" style="font-size: 8px;font-weight: 700">💣 The most <b>advanced🤖</b> and <b>maintained Phish!💥</b></p>
   <p align="center" style="font-size: 8px;font-weight: 700">⚠️⚠️⚠️Dangerous Tool☠⚠️⚠️⚠️ </p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=fb-phish&label=Project%20viewed&color=0e75b6&style=flat" alt="project views count" /> </p>
@@ -11,8 +11,8 @@
 </div>
 
 
-## New Version✅ - Tested 9th March,2024
-Recently I changed the structure of the Tool, using PHP 100%. Running in all OS (*Linux, Windows, Termux and etc*).
+## New Version✅ - Tested 16th March,2024
+Added the **insta-phish**..
 
 
 [See stuffs added!](#whats-new)
@@ -23,10 +23,12 @@ Recently I changed the structure of the Tool, using PHP 100%. Running in all OS 
 - [@isaka-james](https://www.github.com/isaka-james)
 
 #### Authors comment:
-> "I will add **insta-phish** when we hit 50 🌟!"
+> "Please don't hack people with these dangerous tool⚠️⚠️"
 — masterplan
 
 ## What's new?
+  - [x] The insta-phish can be accessible on http://localhost/instagram , redirect people to this *route* to get the phishing done! (**16 March, 2024**)
+  - [x] New 💥💥 **insta-phish** was added!. (**16 March, 2024**)
   - [x] Now the refresh for admin pannel to get *passwords* and *usernames* uses JavaScript, say *bye bye* to refresh page html element.(**6 March, 2024**)
   - [x] Images and logics which were draining the Tool are removed from JavaScript. ( 6 March, 2024)
   - [x] Used the bootstrap to prettify the admin pannel and the table of username and passwords look neat. Also the links are now prettified! (6 March, 2024)
@@ -51,8 +53,11 @@ No framework was used!, Only **PHP**!
 ### How it look on Mobile devices?
 ![Screenshot from 2024-02-15 05-44-30](https://github.com/isaka-james/fb-phish/assets/76619967/ad5313d6-fbdc-47a6-8640-47917ad772e9)
 
-### How Admin Pannel looks like?
-![Screenshot from 2024-03-06 01-31-32](https://github.com/isaka-james/fb-phish/assets/76619967/825ecaa4-5972-40e0-8a86-0156e148207a)
+![Screenshot from 2024-03-16 04-27-15](https://github.com/isaka-james/fb-phish/assets/76619967/6f00a928-5c72-4ce6-95ad-50e036b5421d)
+
+### How Admin Pannel looks like? ✅ Update 16th March, 2024
+![Screenshot from 2024-03-16 04-29-54](https://github.com/isaka-james/fb-phish/assets/76619967/8f971b8d-cb42-47bd-9a40-67601332f4d5)
+
 
 
 ## HOW IT WORKS? ⚡
