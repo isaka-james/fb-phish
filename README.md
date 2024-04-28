@@ -22,8 +22,10 @@ Added the **insta-phish**..
 
 - [@isaka-james](https://www.github.com/isaka-james)
 
-#### Authors comment:
-> "Please don't hack people with these dangerous tool⚠️⚠️"
+#### Author comments:
+> "A friend texted me, and told me to unarchieve the project. Now on 2nd March 2024 I am coming with new update!"
+  
+> "Please don't hack people with this dangerous tool⚠️⚠️"
 — masterplan
 
 ## What's new?
